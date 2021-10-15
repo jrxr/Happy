@@ -40,7 +40,7 @@ Nos links abaixo você encontra o layout do projeto web e também do mobile. Lem
 - [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web)
 - [Layout Mobile](https://www.figma.com/file/X27FfVxAgy9f5IFa7ONlph/Happy-Mobile)
 
-## ℹ️: Como baixar o projeto
+## ℹ️ Como baixar o projeto
 
 ```bash
 # Clone this repository
